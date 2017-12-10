@@ -1,11 +1,15 @@
-Type:
-- [ ] Bug
-- [ ] Feature
+[prompt]:<>(please add labels first)  
+Type:  
+- [ ] Bug  
+- [ ] Feature  
 - [ ] Help   
 
-Version:   
+Version & Environment:  
 
 
 Description:  
+
+
+Screenshots:  
 
 
